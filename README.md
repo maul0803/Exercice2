@@ -8,7 +8,7 @@ L'objectif de ce programme est de simuler l'exécution de différents processus,
 ***  
   
 #Démarrage  
-1)Ouvir un terminale depuis l'adresse du makefile  
+1)Ouvir un terminal depuis l'adresse du makefile  
 2)Compiler les programmes avec la commande make depuis le terminale  
 3)Lancer le programme depuis le terminale  
 4)Suivre les instructions affichées  
